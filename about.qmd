@@ -1,0 +1,20 @@
+---
+title: "About"
+about: 
+  template: jolla
+  image: R.jpeg
+  links: 
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+This homepage consists of a collection of sildes I used in the bite-sized workshop
+organized by SMU library. I hope you find them useful. Your feedback will be very much appreciated.
+
+About this site
+
+
